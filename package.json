@@ -1,0 +1,33 @@
+{
+  "name": "shop-restful-api",
+  "version": "1.0.0",
+  "description": "RestFull Api - Node Js Express Js MongodBD Jwt for Full Stack App Shop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ngbilel/Shop-RESTful-Api.git"
+  },
+  "keywords": [
+    "RestFull",
+    "Api",
+    "-",
+    "Node",
+    "Js",
+    "Express",
+    "Js",
+    "MongodBD",
+    "Jwt"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ngbilel/Shop-RESTful-Api/issues"
+  },
+  "homepage": "https://github.com/ngbilel/Shop-RESTful-Api#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
